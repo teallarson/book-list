@@ -9,8 +9,8 @@ Also bear in mind that I am a serial book abandoner.  If it doesn't spark joy, o
 In general, I've tried to provide links to purchase these books from independent bookstores.  None of the links below are affiliate.  I get nothing from listing or reviewing any of them.  This is purely an exercise in my love of reading and learning and sharing that love of reading with the world!
 
 All books follow an emoji-based labeling system as follows:
-- 📖 currently reading / read (depending on the checkbox)
-- 🎧️ currently listening / listened (depending on the checkbox)
+- 📖 currently reading / read
+- 🎧️ currently listening / listened
 - 👍️ recommend
 - ⭐️ highly recommend
 - ✖️ abandoned
