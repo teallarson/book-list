@@ -19,6 +19,7 @@ All books follow an emoji-based labeling system as follows:
 
 **CATEGORIES**
 - [Architecture and Systems Thinking](#architecture-and-systems-thinking)
+- [Career](#career)
 - [Cloud](#cloud)
 - [Data](#data)
 - [General Software Engineering](#general-software-engineering)
@@ -34,12 +35,21 @@ All books follow an emoji-based labeling system as follows:
 |[Software Architecture in Practice](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a6_t1_6&qi=R4EAH52l0n7ForuANNXAjQlib5w_1497963026_1:128:98&bq=author%3Dlen%2520bass%26title%3Dsoftware%2520architecture%2520in%2520practice)||Cannot for the life of me remember where I heard about this title, but they raved about it and the title stuck with me.|
 |[Designing Data-Intensive Applications](https://www.bookfinder.com/search/?author=Kleppmann%2C+Martin&title=Designing+Data-Intensive+Applications%3A+The+Big+Ideas+Behind+Reliable%2C+Scalable%2C+and+Maintainable+Systems&lang=en&st=xl&ac=qr)|||
 
+## Career
+|Title|Labels|Notes|
+|---|---|---|
+|[Never Split the Difference](https://www.bookfinder.com/search/?author=Voss%2C+Chris&title=Never+Split+the+Difference%3A+Negotiating+As+If+Your+Life+Depended+On+It&lang=en&st=xl&ac=qr)|🎧 ✅ ⭐️|Negotiation tips from a former FBI hostage negotiator.  Enough said really.|
+
 ## Cloud
 | Title | Labels | Notes |
 | --- | --- | --- |
 |[Explain the Cloud Like I'm 10](https://www.bookfinder.com/search/?author=Todd+Hoff&title=Explain+the+Cloud+Like+I%27M+10&lang=en&st=xl&ac=qr)|✅ 📖|Lot's of folks love it.  It wasn't for me.  The descriptions of cloud infrastructure remained more surface-level and repetitive than I was hoping they'd be.  That one's on me as the title quite clearly explains it's a basic primer!|
 
 ## Data
+|Title|Labels|Notes|
+|---|---|---|
+|[97 Things Every Data Engineer Should Know](https://www.bookfinder.com/search/?author=Macey%2C+Tobias&title=97+Things+Every+Data+Engineer+Should+Know%3A+Collective+Wisdom+from+the+Experts&lang=en&st=xl&ac=qr)|📖 ✅ ⭐️|Really similar review to "97 Things Every Programmer Should Know".  Enjoyable, small, digestible pieces that lead to great conversations.  I did this as part of a book study and the articles really served as a nice jumping off place to discussing the persona of a data engineer.  This is a great series by O'Reilly Guides|
+|[Data Pipelines Pocket Reference](https://www.bookfinder.com/search/?author=Densmore%2C+James&title=Data+Pipelines+Pocket+Reference%3A+Moving+and+Processing+Data+for+Analytics&lang=en&st=xl&ac=qr)|📖|Started this one with some background knowledge in Reverse ETL looking to explore other pieces of the data pipeline and that's exactly what I'm getting so far. The example workflow he outlines building is easy to follow.  Still more to come as I'm not finished with it!|
 
 ## General Software Engineering
 |Title|Labels|Notes|
@@ -52,8 +62,10 @@ All books follow an emoji-based labeling system as follows:
 ## Industry History and Culture
 |Title|Labels|Notes|
 |---|---|---|
-|[Zero to One: Notes on Startups or How to Build the Future](https://www.bookfinder.com/search/?author=author+not+set&title=Zero+to+One%3A+Notes+on+Startups%2C+Or+How+to+Build+the+Future&lang=en&st=xl&ac=qr)|🎧️ ✅ 👍️|My favorite was the delve into the startup bubble in the early 2000s as I lived through that from a much younger person's perspective and as the child of an engineer heavily in the startup space there.  It was fun to see what was actually going on behind the rollercoaster (and crash) and what we can learn from it and how it informs or can inform practices today.  I enjoyed getting at least one person's perspective on the "startup headspace", especially since this is a book I see referenced a lot in Twitter threads.|
+|[Just for Fun: The Story of an Accidental Revolutionary](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a1_t1_1&qi=S5e4fmQ8J43NjrajWYZVhtvjC04_1497963026_1:43:67&bq=author%3Dlinus%2520torvalds%253B%2520david%2520diamond%26title%3Djust%2520for%2520fun)||Linux history|
 |[Where Wizards Stay up Late](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a1_t1_1&qi=EuFY,j5SUK1PnosK,CQhfE3j,nc_1497963026_1:434:503&bq=author%3Dkatie%2520hafner%26title%3Dwhere%2520wizards%2520stay%2520up%2520late%2520the%2520origins%2520of%2520the%2520internet)|🎧️ ✅ ⭐️|I linked the physical book, but the audible version of this was really enjoyable.  I liked listening along with the narrative. This one checked a lot of boxes for me -- contemporary US history (especially the 70s) _and_ some nerdy awesomeness?  Yes please!  I loved the insight into what challenges they faced and how they worked them out.|
+|[Zero to One: Notes on Startups or How to Build the Future](https://www.bookfinder.com/search/?author=author+not+set&title=Zero+to+One%3A+Notes+on+Startups%2C+Or+How+to+Build+the+Future&lang=en&st=xl&ac=qr)|🎧️ ✅ 👍️|My favorite was the delve into the startup bubble in the early 2000s as I lived through that from a much younger person's perspective and as the child of an engineer heavily in the startup space there.  It was fun to see what was actually going on behind the rollercoaster (and crash) and what we can learn from it and how it informs or can inform practices today.  I enjoyed getting at least one person's perspective on the "startup headspace", especially since this is a book I see referenced a lot in Twitter threads.|
+
 
 ## Language-Specific
 | Title | Labels | Notes |
