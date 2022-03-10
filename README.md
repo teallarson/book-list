@@ -2,11 +2,11 @@
 
 Why use GoodReads when I can pull an ✨ ultimate nerd ✨ and list my Non-Fiction reads in a repo?
 
-Bear in mind, this is not an exhaustive list of recommendations.  In fact, I don't even know if they're good recommendations at all as they're based on my own interests and rabbit holes I've fallen down.  My greatest hope is that everyone find the 1-3 topics they just can't stop learning about.  If yours happen to align with mine, then may you find something of interest and curiosity here.
+Bear in mind, this is not an exhaustive list of recommendations.  In fact, these are really based on my own interests and rabbit holes I've fallen down and some of them may not even be great recommendations.  My hope is that everyone finds that small handful topics they just can't stop learning about.  If yours happen to align with mine, then may you find something of interest and curiosity here.
 
-Also bear in mind that I am a serial book abandoner.  If it doesn't spark joy, odds are I will ditch it 60-120 pages in.  Doesn't mean it's a bad book per se, it just means it wasn't a right fit for where I was at.  I often pick abandoned reads back up weeks, months, or years later!
+Also bear in mind that I am a serial book abandoner.  If it doesn't spark joy, odds are I will ditch it 60-120 pages in.  Doesn't mean it's a bad book per se, it just means it wasn't a right fit for where I was at.  I often pick abandoned reads back up weeks, months, or years later.  I often just let them rot.
 
-In general, I've tried to provide links to purchase these books from independent bookstores.  None of the links below are affiliate.  I get nothing from listing or reviewing any of them.  This is purely an exercise in my love of reading and learning and sharing that love of reading with the world!
+In general, I've tried to provide links to books on [bookfinder](https://www.bookfinder.com) as a fairly neutral source for finding a place to purchase your books from.  Some of these works are available (ethically) for free online as well.  In those cases, I have linked directly to the book, such as [Eloquent JavaScript](https://eloquentjavascript.net/)  But please check your local libraries as well!  I was able to read many of these books on [Libby](https://www.overdrive.com/apps/libby) for free with my public library card.  I get nothing for listing any of these books.  None of the links below are affiliate.  This is purely me.  Broadcasting my love of reading to whomever will listen.
 
 All books follow an emoji-based labeling system as follows:
 - 📖 reading or read a paper or e-book version
@@ -36,6 +36,10 @@ All books follow an emoji-based labeling system as follows:
 |[Explain the Cloud Like I'm 10](https://www.bookfinder.com/search/?author=Todd+Hoff&title=Explain+the+Cloud+Like+I%27M+10&lang=en&st=xl&ac=qr)|✅ 📖|Lot's of folks love it.  It wasn't for me.  The descriptions of cloud infrastructure remained more surface-level and repetitive than I was hoping they'd be.  That one's on me as the title quite clearly explains it's a basic primer!|
 
 ## Language-Specific
+| Title | Labels | Notes |
+| --- | --- | --- |
+|[Eloquent JavaScript](https://eloquentjavascript.net/)|📖 ✅ ⭐️|Bought it for the beautiful peacock on the cover, stayed for the fun deep dive into JavaScript.  I read this around when I was also in a coding bootcamp using JavaScript and it really helped reviewing and expanding on some fundamentals.  Also, the e-book is available **free** in the link to the left.|
+|[Python Crash Course](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a1_t1_1&qi=Hcxj5rrR1nwH8800P9Gx4LkY3yk_1497963026_1:105:180&bq=author%3Deric%2520matthes%26title%3Dpython%2520crash%2520course)||Fun book.  Enjoyed working through it.  This was my first introduction to a language outside of the JavaScript/TypeScript ecosystem aside from reading some samples in Java and C# online.  I enjoyed in and found it super fun to begin to connect the dots on "these are some of the fundamental things languages can and should be able to do and here's the tradeoffs of implementing them differently".|
 
 ## Startup/Tech Culture
 
