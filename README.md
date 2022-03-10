@@ -17,10 +17,22 @@ All books follow an emoji-based labeling system as follows:
 - ⏭ want to read soon
 - ✅ completed
 
+**CATEGORIES**
+- [Architecture and Systems Thinking](#architecture-and-systems-thinking)
+- [Cloud](#cloud)
+- [Data](#data)
+- [General Software Engineering](#general-software-engineering)
+- [Industry History and Culture](#industry-history-and-culture)
+- [Language Specific](#language-specific)
+- [Leadership](#leadership)
+- [Mathematics/Generally Nerdy Things](#mathematics--generally-nerdy-things)
+- [TBD/To categorize](#tbdto-categorize)
+
 ## Architecture and Systems Thinking
 |Tiitle|Labels|Notes|
 |---|---|---|
 |[Software Architecture in Practice](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a6_t1_6&qi=R4EAH52l0n7ForuANNXAjQlib5w_1497963026_1:128:98&bq=author%3Dlen%2520bass%26title%3Dsoftware%2520architecture%2520in%2520practice)||Cannot for the life of me remember where I heard about this title, but they raved about it and the title stuck with me.|
+|[Designing Data-Intensive Applications](https://www.bookfinder.com/search/?author=Kleppmann%2C+Martin&title=Designing+Data-Intensive+Applications%3A+The+Big+Ideas+Behind+Reliable%2C+Scalable%2C+and+Maintainable+Systems&lang=en&st=xl&ac=qr)|||
 
 ## Cloud
 | Title | Labels | Notes |
@@ -35,9 +47,13 @@ All books follow an emoji-based labeling system as follows:
 | [97 Things Every Programmer Should Know](https://www.bookfinder.com/search/?author=unknown&title=97+Things+Every+Programmer+Should+Know%3A+Collective+Wisdom+from+the+Experts+%282010-02-22%29&lang=en&st=xl&ac=qr)|📖 ⭐️ ✅|This is an amazing series.  Little bite size chunks of knowledge that make the book easy to pick up at times when you have just a minute or two between other things.  Nice pieces to think on and discuss with others.  Just overall excellent little nuggets of wisdom.|
 |[The Pragmatic Programmer](https://www.bookfinder.com/search/?author=Thomas%2C+David&title=The+Pragmatic+Programmer%3A+Your+Journey+to+Mastery%2C+20th+Anniversary+Edition+%282nd+Edition%29&lang=en&st=xl&ac=qr)|📖 ⭐️|I rarely highly recommend a book before I finish it, but this is one I am slowly reading and really just savoring in intervals.  It feels somehow like sitting down for a cup of coffee with a trusted friend and getting some solid advice.|
 |[Range: Why Generalists Triumph in a Specialized World](https://www.bookfinder.com/search/?author=David+Epstein&title=Range%3A+Why+Generalists+Triumph+in+a+Specialized+World&lang=en&st=xl&ac=qr)|||
-|[]()|||
+|[Clean Code](https://www.bookfinder.com/search/?author=author+not+set&title=Clean+Code%3A+a+Handbook+of+Agile+Software+Craftsmanship&lang=en&st=xl&ac=qr)|📖|It may have just not be the right step in my journey when I picked this up.  I did glean some good ideas and pick up some standard industry knowledge, it just wasn't my favorite read for a handful of reasons.  I feel like I broke some unwritten law by writing that. Don't @ me.|
 
 ## Industry History and Culture
+|Title|Labels|Notes|
+|---|---|---|
+|[Zero to One: Notes on Startups or How to Build the Future](https://www.bookfinder.com/search/?author=author+not+set&title=Zero+to+One%3A+Notes+on+Startups%2C+Or+How+to+Build+the+Future&lang=en&st=xl&ac=qr)|🎧️ ✅ 👍️|My favorite was the delve into the startup bubble in the early 2000s as I lived through that from a much younger person's perspective and as the child of an engineer heavily in the startup space there.  It was fun to see what was actually going on behind the rollercoaster (and crash) and what we can learn from it and how it informs or can inform practices today.  I enjoyed getting at least one person's perspective on the "startup headspace", especially since this is a book I see referenced a lot in Twitter threads.|
+|[Where Wizards Stay up Late](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a1_t1_1&qi=EuFY,j5SUK1PnosK,CQhfE3j,nc_1497963026_1:434:503&bq=author%3Dkatie%2520hafner%26title%3Dwhere%2520wizards%2520stay%2520up%2520late%2520the%2520origins%2520of%2520the%2520internet)|🎧️ ✅ ⭐️|I linked the physical book, but the audible version of this was really enjoyable.  I liked listening along with the narrative. This one checked a lot of boxes for me -- contemporary US history (especially the 70s) _and_ some nerdy awesomeness?  Yes please!  I loved the insight into what challenges they faced and how they worked them out.|
 
 ## Language-Specific
 | Title | Labels | Notes |
@@ -51,7 +67,7 @@ All books follow an emoji-based labeling system as follows:
 | --- | --- | --- |
 | [The Manager's Path](https://www.bookfinder.com/search/?author=Fournier%2C+Camille&title=The+Manager%27s+Path%3A+A+Guide+for+Tech+Leaders+Navigating+Growth+and+Change&lang=en&st=xl&ac=qr)|⏩|Has been recommended to me as both great for those honing their skills as a manager, but also for anyone who _has_ a manager to hone the skill of "managing up" and in general giving helpful feedback.|
 
-## General Nerdiness / Mathematics
+## Mathematics / Generally Nerdy Things
 | Title | Labels | Notes |
 | --- | --- | --- |
 | [Zero: The Biography of a Dangerous Idea](https://www.bookfinder.com/search/?author=Seife%2C+Charles&title=Zero%3A+The+Biography+of+a+Dangerous+Idea&lang=en&st=xl&ac=qr) | ✅ 📖 ⭐️ ⭐️| Yes, I double highly recommend.  I don't know exactly when I started becoming fascinated with the number zero, but it's just a seriously fun topic to ponder.  This book crossed of my history interests, my interests in the value of zero and infinity, and a number of other cool ideas along the way.  I was fascinated to really grasp how recent of an idea the number zero really is, at least in the way that it's accepted today!|
