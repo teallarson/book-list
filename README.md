@@ -18,32 +18,38 @@ All books follow an emoji-based labeling system as follows:
 - ✅ completed
 
 ## Architecture and Systems Thinking
-
-## Leadership
-| Title | Labels | Notes |
-| --- | --- | --- |
-| [The Manager's Path](https://www.bookfinder.com/search/?author=Fournier%2C+Camille&title=The+Manager%27s+Path%3A+A+Guide+for+Tech+Leaders+Navigating+Growth+and+Change&lang=en&st=xl&ac=qr)|⏩|Has been recommended to me as both great for those honing their skills as a manager, but also for anyone who _has_ a manager to hone the skill of "managing up" and in general giving helpful feedback.|
-
-## General Software Engineering
-|Title|Labels|Notes|
+|Tiitle|Labels|Notes|
 |---|---|---|
-| [97 Things Every Programmer Should Know](https://www.bookfinder.com/search/?author=unknown&title=97+Things+Every+Programmer+Should+Know%3A+Collective+Wisdom+from+the+Experts+%282010-02-22%29&lang=en&st=xl&ac=qr)|📖 ⭐️ ✅|This is an amazing series.  Little bite size chunks of knowledge that make the book easy to pick up at times when you have just a minute or two between other things.  Nice pieces to think on and discuss with others.  Just overall excellent little nuggets of wisdom.|
-## Data
+|[Software Architecture in Practice](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a6_t1_6&qi=R4EAH52l0n7ForuANNXAjQlib5w_1497963026_1:128:98&bq=author%3Dlen%2520bass%26title%3Dsoftware%2520architecture%2520in%2520practice)||Cannot for the life of me remember where I heard about this title, but they raved about it and the title stuck with me.|
 
 ## Cloud
 | Title | Labels | Notes |
 | --- | --- | --- |
 |[Explain the Cloud Like I'm 10](https://www.bookfinder.com/search/?author=Todd+Hoff&title=Explain+the+Cloud+Like+I%27M+10&lang=en&st=xl&ac=qr)|✅ 📖|Lot's of folks love it.  It wasn't for me.  The descriptions of cloud infrastructure remained more surface-level and repetitive than I was hoping they'd be.  That one's on me as the title quite clearly explains it's a basic primer!|
 
+## Data
+
+## General Software Engineering
+|Title|Labels|Notes|
+|---|---|---|
+| [97 Things Every Programmer Should Know](https://www.bookfinder.com/search/?author=unknown&title=97+Things+Every+Programmer+Should+Know%3A+Collective+Wisdom+from+the+Experts+%282010-02-22%29&lang=en&st=xl&ac=qr)|📖 ⭐️ ✅|This is an amazing series.  Little bite size chunks of knowledge that make the book easy to pick up at times when you have just a minute or two between other things.  Nice pieces to think on and discuss with others.  Just overall excellent little nuggets of wisdom.|
+|[The Pragmatic Programmer](https://www.bookfinder.com/search/?author=Thomas%2C+David&title=The+Pragmatic+Programmer%3A+Your+Journey+to+Mastery%2C+20th+Anniversary+Edition+%282nd+Edition%29&lang=en&st=xl&ac=qr)|📖 ⭐️|I rarely highly recommend a book before I finish it, but this is one I am slowly reading and really just savoring in intervals.  It feels somehow like sitting down for a cup of coffee with a trusted friend and getting some solid advice.|
+|[Range: Why Generalists Triumph in a Specialized World](https://www.bookfinder.com/search/?author=David+Epstein&title=Range%3A+Why+Generalists+Triumph+in+a+Specialized+World&lang=en&st=xl&ac=qr)|||
+|[]()|||
+
+## Industry History and Culture
+
 ## Language-Specific
 | Title | Labels | Notes |
 | --- | --- | --- |
 |[Eloquent JavaScript](https://eloquentjavascript.net/)|📖 ✅ ⭐️|Bought it for the beautiful peacock on the cover, stayed for the fun deep dive into JavaScript.  I read this around when I was also in a coding bootcamp using JavaScript and it really helped reviewing and expanding on some fundamentals.  Also, the e-book is available **free** in the link to the left.|
 |[Python Crash Course](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a1_t1_1&qi=Hcxj5rrR1nwH8800P9Gx4LkY3yk_1497963026_1:105:180&bq=author%3Deric%2520matthes%26title%3Dpython%2520crash%2520course)|📖 ✅ ⭐️|Fun book.  Enjoyed working through it.  This was my first introduction to a language outside of the JavaScript/TypeScript ecosystem aside from reading some samples in Java and C# online.  I enjoyed in and found it super fun to begin to connect the dots on "these are some of the fundamental things languages can and should be able to do and here's the tradeoffs of implementing them differently".|
+|[Effective TypeScript](https://www.bookfinder.com/search/?author=Vanderkam%2C+Dan&title=Effective+TypeScript%3A+62+Specific+Ways+to+Improve+Your+TypeScript&lang=en&st=xl&ac=qr)|📖||
 
-## Startup/Tech Culture
-
-## Industry History
+## Leadership
+| Title | Labels | Notes |
+| --- | --- | --- |
+| [The Manager's Path](https://www.bookfinder.com/search/?author=Fournier%2C+Camille&title=The+Manager%27s+Path%3A+A+Guide+for+Tech+Leaders+Navigating+Growth+and+Change&lang=en&st=xl&ac=qr)|⏩|Has been recommended to me as both great for those honing their skills as a manager, but also for anyone who _has_ a manager to hone the skill of "managing up" and in general giving helpful feedback.|
 
 ## General Nerdiness / Mathematics
 | Title | Labels | Notes |
