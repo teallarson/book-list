@@ -32,8 +32,8 @@ All books follow an emoji-based labeling system as follows:
 ## Architecture and Systems Thinking
 |Tiitle|Labels|Notes|
 |---|---|---|
-|[Software Architecture in Practice](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a6_t1_6&qi=R4EAH52l0n7ForuANNXAjQlib5w_1497963026_1:128:98&bq=author%3Dlen%2520bass%26title%3Dsoftware%2520architecture%2520in%2520practice)||Cannot for the life of me remember where I heard about this title, but they raved about it and the title stuck with me.|
 |[Designing Data-Intensive Applications](https://www.bookfinder.com/search/?author=Kleppmann%2C+Martin&title=Designing+Data-Intensive+Applications%3A+The+Big+Ideas+Behind+Reliable%2C+Scalable%2C+and+Maintainable+Systems&lang=en&st=xl&ac=qr)|||
+|[Software Architecture in Practice](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a6_t1_6&qi=R4EAH52l0n7ForuANNXAjQlib5w_1497963026_1:128:98&bq=author%3Dlen%2520bass%26title%3Dsoftware%2520architecture%2520in%2520practice)||Cannot for the life of me remember where I heard about this title, but they raved about it and the title stuck with me.|
 
 ## Career
 |Title|Labels|Notes|
@@ -55,9 +55,11 @@ All books follow an emoji-based labeling system as follows:
 |Title|Labels|Notes|
 |---|---|---|
 | [97 Things Every Programmer Should Know](https://www.bookfinder.com/search/?author=unknown&title=97+Things+Every+Programmer+Should+Know%3A+Collective+Wisdom+from+the+Experts+%282010-02-22%29&lang=en&st=xl&ac=qr)|📖 ⭐️ ✅|This is an amazing series.  Little bite size chunks of knowledge that make the book easy to pick up at times when you have just a minute or two between other things.  Nice pieces to think on and discuss with others.  Just overall excellent little nuggets of wisdom.|
-|[The Pragmatic Programmer](https://www.bookfinder.com/search/?author=Thomas%2C+David&title=The+Pragmatic+Programmer%3A+Your+Journey+to+Mastery%2C+20th+Anniversary+Edition+%282nd+Edition%29&lang=en&st=xl&ac=qr)|📖 ⭐️|I rarely highly recommend a book before I finish it, but this is one I am slowly reading and really just savoring in intervals.  It feels somehow like sitting down for a cup of coffee with a trusted friend and getting some solid advice.|
-|[Range: Why Generalists Triumph in a Specialized World](https://www.bookfinder.com/search/?author=David+Epstein&title=Range%3A+Why+Generalists+Triumph+in+a+Specialized+World&lang=en&st=xl&ac=qr)|||
 |[Clean Code](https://www.bookfinder.com/search/?author=author+not+set&title=Clean+Code%3A+a+Handbook+of+Agile+Software+Craftsmanship&lang=en&st=xl&ac=qr)|📖|It may have just not be the right step in my journey when I picked this up.  I did glean some good ideas and pick up some standard industry knowledge, it just wasn't my favorite read for a handful of reasons.  I feel like I broke some unwritten law by writing that. Don't @ me.|
+|[Range: Why Generalists Triumph in a Specialized World](https://www.bookfinder.com/search/?author=David+Epstein&title=Range%3A+Why+Generalists+Triumph+in+a+Specialized+World&lang=en&st=xl&ac=qr)|||
+|[The Pragmatic Programmer](https://www.bookfinder.com/search/?author=Thomas%2C+David&title=The+Pragmatic+Programmer%3A+Your+Journey+to+Mastery%2C+20th+Anniversary+Edition+%282nd+Edition%29&lang=en&st=xl&ac=qr)|📖 ⭐️|I rarely highly recommend a book before I finish it, but this is one I am slowly reading and really just savoring in intervals.  It feels somehow like sitting down for a cup of coffee with a trusted friend and getting some solid advice.|
+
+
 
 ## Industry History and Culture
 |Title|Labels|Notes|
@@ -70,9 +72,10 @@ All books follow an emoji-based labeling system as follows:
 ## Language-Specific
 | Title | Labels | Notes |
 | --- | --- | --- |
+|[Effective TypeScript](https://www.bookfinder.com/search/?author=Vanderkam%2C+Dan&title=Effective+TypeScript%3A+62+Specific+Ways+to+Improve+Your+TypeScript&lang=en&st=xl&ac=qr)|📖||
 |[Eloquent JavaScript](https://eloquentjavascript.net/)|📖 ✅ ⭐️|Bought it for the beautiful peacock on the cover, stayed for the fun deep dive into JavaScript.  I read this around when I was also in a coding bootcamp using JavaScript and it really helped reviewing and expanding on some fundamentals.  Also, the e-book is available **free** in the link to the left.|
 |[Python Crash Course](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a1_t1_1&qi=Hcxj5rrR1nwH8800P9Gx4LkY3yk_1497963026_1:105:180&bq=author%3Deric%2520matthes%26title%3Dpython%2520crash%2520course)|📖 ✅ ⭐️|Fun book.  Enjoyed working through it.  This was my first introduction to a language outside of the JavaScript/TypeScript ecosystem aside from reading some samples in Java and C# online.  I enjoyed in and found it super fun to begin to connect the dots on "these are some of the fundamental things languages can and should be able to do and here's the tradeoffs of implementing them differently".|
-|[Effective TypeScript](https://www.bookfinder.com/search/?author=Vanderkam%2C+Dan&title=Effective+TypeScript%3A+62+Specific+Ways+to+Improve+Your+TypeScript&lang=en&st=xl&ac=qr)|📖||
+
 
 ## Leadership
 | Title | Labels | Notes |
@@ -82,7 +85,7 @@ All books follow an emoji-based labeling system as follows:
 ## Mathematics / Generally Nerdy Things
 | Title | Labels | Notes |
 | --- | --- | --- |
-| [Zero: The Biography of a Dangerous Idea](https://www.bookfinder.com/search/?author=Seife%2C+Charles&title=Zero%3A+The+Biography+of+a+Dangerous+Idea&lang=en&st=xl&ac=qr) | ✅ 📖 ⭐️ ⭐️| Yes, I double highly recommend.  I don't know exactly when I started becoming fascinated with the number zero, but it's just a seriously fun topic to ponder.  This book crossed of my history interests, my interests in the value of zero and infinity, and a number of other cool ideas along the way.  I was fascinated to really grasp how recent of an idea the number zero really is, at least in the way that it's accepted today!|
 |[The Simpsons and their Mathematical Secrets](https://www.bookfinder.com/search/?author=author+not+set&title=The+Simpsons+and+Their+Mathematical+Secrets&lang=en&st=xl&ac=qr)|📖||
+| [Zero: The Biography of a Dangerous Idea](https://www.bookfinder.com/search/?author=Seife%2C+Charles&title=Zero%3A+The+Biography+of+a+Dangerous+Idea&lang=en&st=xl&ac=qr) | ✅ 📖 ⭐️ ⭐️| Yes, I double highly recommend.  I don't know exactly when I started becoming fascinated with the number zero, but it's just a seriously fun topic to ponder.  This book crossed of my history interests, my interests in the value of zero and infinity, and a number of other cool ideas along the way.  I was fascinated to really grasp how recent of an idea the number zero really is, at least in the way that it's accepted today!|
 
 ## TBD/to categorize
