@@ -39,7 +39,7 @@ All books follow an emoji-based labeling system as follows:
 | Title | Labels | Notes |
 | --- | --- | --- |
 |[Eloquent JavaScript](https://eloquentjavascript.net/)|📖 ✅ ⭐️|Bought it for the beautiful peacock on the cover, stayed for the fun deep dive into JavaScript.  I read this around when I was also in a coding bootcamp using JavaScript and it really helped reviewing and expanding on some fundamentals.  Also, the e-book is available **free** in the link to the left.|
-|[Python Crash Course](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a1_t1_1&qi=Hcxj5rrR1nwH8800P9Gx4LkY3yk_1497963026_1:105:180&bq=author%3Deric%2520matthes%26title%3Dpython%2520crash%2520course)||Fun book.  Enjoyed working through it.  This was my first introduction to a language outside of the JavaScript/TypeScript ecosystem aside from reading some samples in Java and C# online.  I enjoyed in and found it super fun to begin to connect the dots on "these are some of the fundamental things languages can and should be able to do and here's the tradeoffs of implementing them differently".|
+|[Python Crash Course](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a1_t1_1&qi=Hcxj5rrR1nwH8800P9Gx4LkY3yk_1497963026_1:105:180&bq=author%3Deric%2520matthes%26title%3Dpython%2520crash%2520course)|📖 ✅ ⭐️|Fun book.  Enjoyed working through it.  This was my first introduction to a language outside of the JavaScript/TypeScript ecosystem aside from reading some samples in Java and C# online.  I enjoyed in and found it super fun to begin to connect the dots on "these are some of the fundamental things languages can and should be able to do and here's the tradeoffs of implementing them differently".|
 
 ## Startup/Tech Culture
 
