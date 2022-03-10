@@ -1,4 +1,4 @@
-# Non-fiction Book List
+# Nonfiction Book List
 
 Why use GoodReads when I can pull an ✨ ultimate nerd ✨ and list my Non-Fiction reads in a repo?
 
