@@ -39,6 +39,8 @@ All books follow an emoji-based labeling system as follows:
 |Title|Labels|Notes|
 |---|---|---|
 |[Never Split the Difference](https://www.bookfinder.com/search/?author=Voss%2C+Chris&title=Never+Split+the+Difference%3A+Negotiating+As+If+Your+Life+Depended+On+It&lang=en&st=xl&ac=qr)|🎧 ✅ ⭐️|Negotiation tips from a former FBI hostage negotiator.  Enough said really.|
+|[Pay Up: The Future of Women and Work](https://www.bookfinder.com/search/?author=author+not+set&title=Pay+Up%3A+The+Future+of+Women+and+Work+%28and+Why+It%27s+Different+Than+You+Think%29&lang=en&st=xl&ac=qr
+)|⏩|Written by Reshma Saujani, founder of Girls Who Code.|
 
 ## Cloud
 | Title | Labels | Notes |
@@ -88,7 +90,7 @@ All books follow an emoji-based labeling system as follows:
 ## Mathematics / Generally Nerdy Things
 | Title | Labels | Notes |
 | --- | --- | --- |
-|[The Simpsons and their Mathematical Secrets](https://www.bookfinder.com/search/?author=author+not+set&title=The+Simpsons+and+Their+Mathematical+Secrets&lang=en&st=xl&ac=qr)|📖||
+|[The Simpsons and their Mathematical Secrets](https://www.bookfinder.com/search/?author=author+not+set&title=The+Simpsons+and+Their+Mathematical+Secrets&lang=en&st=xl&ac=qr)|📖|I think my favorite genre is just "nerds doing things they're excited about".  This is great. (Still working on it)|
 | [Zero: The Biography of a Dangerous Idea](https://www.bookfinder.com/search/?author=Seife%2C+Charles&title=Zero%3A+The+Biography+of+a+Dangerous+Idea&lang=en&st=xl&ac=qr) | ✅ 📖 ⭐️ ⭐️| Yes, I double highly recommend.  I don't know exactly when I started becoming fascinated with the number zero, but it's just a seriously fun topic to ponder.  This book crossed of my history interests, my interests in the value of zero and infinity, and a number of other cool ideas along the way.  I was fascinated to really grasp how recent of an idea the number zero really is, at least in the way that it's accepted today!|
 
 ## TBD/to categorize
