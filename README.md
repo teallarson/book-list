@@ -39,8 +39,7 @@ All books follow an emoji-based labeling system as follows:
 |Title|Labels|Notes|
 |---|---|---|
 |[Never Split the Difference](https://www.bookfinder.com/search/?author=Voss%2C+Chris&title=Never+Split+the+Difference%3A+Negotiating+As+If+Your+Life+Depended+On+It&lang=en&st=xl&ac=qr)|🎧 ✅ ⭐️|Negotiation tips from a former FBI hostage negotiator.  Enough said really.|
-|[Pay Up: The Future of Women and Work](https://www.bookfinder.com/search/?author=author+not+set&title=Pay+Up%3A+The+Future+of+Women+and+Work+%28and+Why+It%27s+Different+Than+You+Think%29&lang=en&st=xl&ac=qr
-)|⏩|Written by Reshma Saujani, founder of Girls Who Code.|
+|[Pay Up: The Future of Women and Work](https://www.bookfinder.com/search/?author=author+not+set&title=Pay+Up%3A+The+Future+of+Women+and+Work+%28and+Why+It%27s+Different+Than+You+Think%29&lang=en&st=xl&ac=qr)|⏩|Written by Reshma Saujani, founder of Girls Who Code.|
 
 ## Cloud
 | Title | Labels | Notes |
