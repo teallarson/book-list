@@ -42,7 +42,7 @@ All books follow an emoji-based labeling system as follows:
 |[The Culture Map](https://www.bookfinder.com/search/?author=Meyer%2C+Erin&title=The+Culture+Map%3A+Breaking+Through+the+Invisible+Boundaries+of+Global+Business&lang=en&st=xl&ac=qr)|📖 ✅ ⭐️|My undergrad degree was  Language, Literacy, and Cultural Studies with a focus on education. This was a thoughtful look into effectively working on global teams and in global markets.|
 | [The Manager's Path](https://www.bookfinder.com/search/?author=Fournier%2C+Camille&title=The+Manager%27s+Path%3A+A+Guide+for+Tech+Leaders+Navigating+Growth+and+Change&lang=en&st=xl&ac=qr)|📖|Has been recommended to me as both great for those honing their skills as a manager, but also for anyone who _has_ a manager to hone the skill of "managing up" and in general giving helpful feedback.|
 |[Never Split the Difference](https://www.bookfinder.com/search/?author=Voss%2C+Chris&title=Never+Split+the+Difference%3A+Negotiating+As+If+Your+Life+Depended+On+It&lang=en&st=xl&ac=qr)|🎧 ✅ ⭐️|Negotiation tips from a former FBI hostage negotiator.  Enough said really.|
-|[Pay Up: The Future of Women and Work](https://www.bookfinder.com/search/?author=author+not+set&title=Pay+Up%3A+The+Future+of+Women+and+Work+%28and+Why+It%27s+Different+Than+You+Think%29&lang=en&st=xl&ac=qr)||Written by Reshma Saujani, founder of Girls Who Code.|
+
 
 ## Cloud
 | Title | Labels | Notes |
