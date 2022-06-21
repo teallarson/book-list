@@ -40,6 +40,7 @@ All books follow an emoji-based labeling system as follows:
 |Title|Labels|Notes|
 |---|---|---|
 |[The Culture Map](https://www.bookfinder.com/search/?author=Meyer%2C+Erin&title=The+Culture+Map%3A+Breaking+Through+the+Invisible+Boundaries+of+Global+Business&lang=en&st=xl&ac=qr)|📖 ✅ ⭐️|My undergrad degree was  Language, Literacy, and Cultural Studies with a focus on education. This was a thoughtful look into effectively working on global teams and in global markets.|
+| [The Manager's Path](https://www.bookfinder.com/search/?author=Fournier%2C+Camille&title=The+Manager%27s+Path%3A+A+Guide+for+Tech+Leaders+Navigating+Growth+and+Change&lang=en&st=xl&ac=qr)|📖|Has been recommended to me as both great for those honing their skills as a manager, but also for anyone who _has_ a manager to hone the skill of "managing up" and in general giving helpful feedback.|
 |[Never Split the Difference](https://www.bookfinder.com/search/?author=Voss%2C+Chris&title=Never+Split+the+Difference%3A+Negotiating+As+If+Your+Life+Depended+On+It&lang=en&st=xl&ac=qr)|🎧 ✅ ⭐️|Negotiation tips from a former FBI hostage negotiator.  Enough said really.|
 |[Pay Up: The Future of Women and Work](https://www.bookfinder.com/search/?author=author+not+set&title=Pay+Up%3A+The+Future+of+Women+and+Work+%28and+Why+It%27s+Different+Than+You+Think%29&lang=en&st=xl&ac=qr)||Written by Reshma Saujani, founder of Girls Who Code.|
 
@@ -83,11 +84,6 @@ All books follow an emoji-based labeling system as follows:
 |[React Hooks in Action](https://www.bookfinder.com/search/?author=Larsen%2C+John&title=React+Hooks+in+Action%3A+With+Suspense+and+Concurrent+Mode&lang=en&st=xl&ac=qr)|📖✅👍|Nice explanation of some common patterns with React hooks.  The code examples were somewhat lengthy for my taste, but probably helpful.|
 |[Testing JavaScript Applications](https://www.bookfinder.com/search/?author=Lucas+da+Costa&title=Testing+JavaScript+Applications&lang=en&st=xl&ac=qr)|📖 ✅| To be quite honest, I'm not sure if I'd recommend it or not!  It gave some great overview of different levels of testing, their purpose, and a high level comparison of types of tooling for browser automation (I was focusing on the E2E UI testing section).  However, the author really only went into detail about their preferred tools which was unfortunate. For sure worth a good skim for some context at the least!|
 
-
-## Leadership
-| Title | Labels | Notes |
-| --- | --- | --- |
-| [The Manager's Path](https://www.bookfinder.com/search/?author=Fournier%2C+Camille&title=The+Manager%27s+Path%3A+A+Guide+for+Tech+Leaders+Navigating+Growth+and+Change&lang=en&st=xl&ac=qr)|📖|Has been recommended to me as both great for those honing their skills as a manager, but also for anyone who _has_ a manager to hone the skill of "managing up" and in general giving helpful feedback.|
 
 ## Mathematics / Generally Nerdy Things
 | Title | Labels | Notes |
