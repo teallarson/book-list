@@ -91,4 +91,8 @@ All books follow an emoji-based labeling system as follows:
 |[The Simpsons and their Mathematical Secrets](https://www.bookfinder.com/search/?author=author+not+set&title=The+Simpsons+and+Their+Mathematical+Secrets&lang=en&st=xl&ac=qr)|📖 👍|I think my favorite genre is just "nerds doing things they're excited about".  This is great.|
 | [Zero: The Biography of a Dangerous Idea](https://www.bookfinder.com/search/?author=Seife%2C+Charles&title=Zero%3A+The+Biography+of+a+Dangerous+Idea&lang=en&st=xl&ac=qr) | ✅ 📖 ⭐️ ⭐️| Yes, I double highly recommend.  I don't know exactly when I started becoming fascinated with the number zero, but it's just a seriously fun topic to ponder.  This book crossed of my history interests, my interests in the value of zero and infinity, and a number of other cool ideas along the way.  I was fascinated to really grasp how recent of an idea the number zero really is, at least in the way that it's accepted today!|
 
-## TBD/to categorize
+## TBD/to categorize/saving for later
+- No Rules Rules
+- Five Dysfunctions of a Team
+- Talk Like TED
+- Crucial Conversations
