@@ -1,12 +1,12 @@
 # Nonfiction Book List
 
-Why use GoodReads when I can pull an ✨ ultimate nerd ✨ and list my Non-Fiction reads in a repo?
+Good Reads is too easy.  Why do that when I can maintain a Github Repo?
 
-Bear in mind, this is not an exhaustive list of recommendations.  In fact, these are really based on my own interests and rabbit holes I've fallen down and some of them may not even be great recommendations.  My hope is that everyone finds that small handful topics they just can't stop learning about.  If yours happen to align with mine, then may you find something of interest and curiosity here.  I also currently have mostly male American authors on this reading list... I am aware and am hoping to seek out some more diverse voices on here in the near future.
+Bear in mind, this is not an exhaustive list of recommendations.  In fact, these are really based on my own interests and rabbit holes I've fallen down. Some of them may not even be great recommendations for you.  My hope is that everyone finds that small handful of topics they just can't stop learning about.  If yours align with mine, may you find something of interest and curiosity here.  If not, I am not offended!  
 
-Also bear in mind that I am a serial book abandoner.  If it doesn't spark joy, odds are I will ditch it 60-120 pages in.  Doesn't mean it's a bad book per se, it just means it wasn't a right fit for where I was at.  I often pick abandoned reads back up weeks, months, or years later.  I often just let them rot.
+Also bear in mind that I am a serial book abandoner.  If it doesn't spark joy, odds are I will ditch it 60-120 pages in.  Doesn't mean it's a bad book per se, it just means it wasn't a right fit for where I was at.  I often pick abandoned reads back up weeks, months, or years later.  I often just let them rot, also.
 
-In general, I've tried to provide links to books on [bookfinder](https://www.bookfinder.com) as a fairly neutral source for finding a place to purchase your books from.  Some of these works are available (ethically) for free online as well.  In those cases, where known, I have linked directly to the book, such as [Eloquent JavaScript](https://eloquentjavascript.net/).  But please check your local libraries as well!  I was able to read many of these books on [Libby](https://www.overdrive.com/apps/libby) for free with my public library card.  I get nothing for listing any of these books.  None of the links below are affiliate.  This is purely me.  Broadcasting my love of reading to whomever will listen.
+I've tried to provide links to books on [bookfinder](https://www.bookfinder.com) as a fairly neutral source for finding a place to purchase your books.  Some of these works are also available (ethically) for free online.  In those cases, where known, I have linked directly to the book, such as [Eloquent JavaScript](https://eloquentjavascript.net/).  But please check your local libraries!  I was able to read many of these books on [Libby](https://www.overdrive.com/apps/libby) for free with my public library card.  I get nothing for listing any of these books.  None of the links below are affiliate.  This is purely me.  Broadcasting my love of reading to whoever will listen.
 
 All books follow an emoji-based labeling system as follows:
 - 📖 reading or read a paper or e-book version
