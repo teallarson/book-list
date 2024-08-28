@@ -25,7 +25,7 @@ All books follow an emoji-based labeling system as follows:
 - [Data](#data)
 - [DevOps](#devops)
 - [General Software Engineering](#general-software-engineering)
-- [Industry History and Culture](#industry-history-and-culture)
+- [Industry History](#industry-history)
 - [Language Specific](#language-specific)
 - [Frontend / UI / Design](#frontend--ui--design)
 - [Mathematics/Generally Nerdy Things](#mathematics--generally-nerdy-things)
@@ -38,6 +38,7 @@ All books follow an emoji-based labeling system as follows:
 |[Designing Data-Intensive Applications](https://www.bookfinder.com/search/?author=Kleppmann%2C+Martin&title=Designing+Data-Intensive+Applications%3A+The+Big+Ideas+Behind+Reliable%2C+Scalable%2C+and+Maintainable+Systems&lang=en&st=xl&ac=qr)|👍 ✅ 📖|Good read for some overall patterns, practices, etc. Some of the information is a bit dated (this book is coming up on 5 years old) so I do hope they'll update some of the content soon! Still made a valuable primer.|
 |[Designing Distributed Systems](https://www.bookfinder.com/search/?author=Burns%2C+Brendan&title=Designing+Distributed+Systems%3A+Patterns+and+Paradigms+for+Scalable%2C+Reliable+Services&lang=en&st=xl&ac=qr)||
 |[Software Architecture in Practice](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a6_t1_6&qi=R4EAH52l0n7ForuANNXAjQlib5w_1497963026_1:128:98&bq=author%3Dlen%2520bass%26title%3Dsoftware%2520architecture%2520in%2520practice)||Cannot for the life of me remember where I heard about this title, but they raved about it and the title stuck with me.|
+|[Entangled Life](https://www.bookfinder.com/search/?author=Sheldrake%2C+Merlin&title=Entangled+Life%3A+How+Fungi+Make+Our+Worlds%2C+Change+Our+Minds&lang=en&st=xl&ac=qr)|📖 ✅ ⭐ ⭐|Is it a stretch to say this is systems-related in a way that is useful for software engineering? Maybe, but probably not. IMO systems are systems, and thinking of parts in terms of the whole (and wholes in terms of their parts) is a really kick ass skill.  I devoured this book over a week of PTO at the end of 2023 (which, having three kids at home, I _rarely_ finish a 300+ page non-fiction book that quickly).  I truly appreciate that a book with this title is written by a man named Merlin Sheldrake, and I appreciate that upon reading the "About the Author", he is exactly the person I would expect to write this kind of book.  The writing style wanders and meanders a bit, a bit like mycelium if you will, which usually drives me nuts.  It somehow worked here.|
 
 ## Career
 |Title|Labels|Notes|
@@ -88,7 +89,7 @@ All books follow an emoji-based labeling system as follows:
 |[Move Fast and Break Things](https://www.bookfinder.com/search/?author=Taplin%2C+Jonathan&title=Move+Fast+and+Break+Things%3A+How+Facebook%2C+Google%2C+and+Amazon+Cornered+Culture+and+Undermined+Democracy&lang=en&st=xl&ac=qr)|🎧 ✅|Not my favoritem but great for getting some context!|
 |[The Cathedral and the Bazaar](https://www.bookfinder.com/search/?author=Raymond%2C+Eric+S.&title=The+Cathedral&lang=en&st=xl&ac=qr )|📖 ✅ ⭐️|A fun look into the history of Linux and Open Source. Quick read!|
 |[Where Wizards Stay up Late](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a1_t1_1&qi=EuFY,j5SUK1PnosK,CQhfE3j,nc_1497963026_1:434:503&bq=author%3Dkatie%2520hafner%26title%3Dwhere%2520wizards%2520stay%2520up%2520late%2520the%2520origins%2520of%2520the%2520internet)|🎧️ ✅ ⭐️|I linked the physical book, but the audible version of this was really enjoyable. I liked listening along with the narrative. This one checked a lot of boxes for me -- contemporary US history (especially the 70s) _and_ some nerdy awesomeness? Yes please! I loved the insight into what challenges they faced and how they worked them out.|
-|[Dealers of Lightning]([https://www.bookfinder.com/search/?author=author+not+set&title=Zero+to+One%3A+Notes+on+Startups%2C+Or+How+to+Build+the+Future&lang=en&st=xl&ac=qr](https://www.bookfinder.com/search/author=Hiltzik%2C+Michael+A.&title=Dealers+of+Lightning%3A+Xerox+PARC+and+the+Dawn+of+the+Computer+Age&lang=en&st=xl&ac=qr))|🎧️ ✅ 👍️|I really enjoyed this one in a similar way that I enjoyed "Where Wizards Stay Up Late". I also happened to learn that I had a close family member working at Parc Xerox during this era, so it was fascinating to read from a personal perspective, too. I find these waves of concentrated innovation that have come and gone throughout history truly fascinating and love dreaming about what that might look like in my lifetime, too.|
+|[Dealers of Lightning](https://www.bookfinder.com/search/author=Hiltzik%2C+Michael+A.&title=Dealers+of+Lightning%3A+Xerox+PARC+and+the+Dawn+of+the+Computer+Age&lang=en&st=xl&ac=qr)|🎧️ ✅ 👍️|I really enjoyed this one in a similar way that I enjoyed "Where Wizards Stay Up Late". I also happened to learn that I had a close family member working at Parc Xerox during this era, so it was fascinating to read from a personal perspective, too. I find these waves of concentrated innovation that have come and gone throughout history truly fascinating and love dreaming about what that might look like in my lifetime, too.|
 
 ## Language-Specific
 | Title | Labels | Notes |
@@ -120,6 +121,6 @@ All books follow an emoji-based labeling system as follows:
 |[The Simpsons and their Mathematical Secrets](https://www.bookfinder.com/search/?author=author+not+set&title=The+Simpsons+and+Their+Mathematical+Secrets&lang=en&st=xl&ac=qr)|📖 👍|I think my favorite genre is just "nerds doing things they're excited about". This is great.|
 |[Zero: The Biography of a Dangerous Idea](https://www.bookfinder.com/search/?author=Seife%2C+Charles&title=Zero%3A+The+Biography+of+a+Dangerous+Idea&lang=en&st=xl&ac=qr) | ✅ 📖 ⭐️ ⭐️| Yes, I double highly recommend. I don't know exactly when I started becoming fascinated with the number zero, but it's just a seriously fun topic to ponder. This book crossed of my history interests, my interests in the value of zero and infinity, and a number of other cool ideas along the way. I was fascinated to really grasp how recent of an idea the number zero really is, at least in the way that it's accepted today!|
 
-## TBD/to categorize/saving for later
+## TBD/to categorize
 - Five Dysfunctions of a Team
 - Talk Like TED
