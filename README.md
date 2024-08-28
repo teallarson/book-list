@@ -89,7 +89,7 @@ All books follow an emoji-based labeling system as follows:
 |[Move Fast and Break Things](https://www.bookfinder.com/search/?author=Taplin%2C+Jonathan&title=Move+Fast+and+Break+Things%3A+How+Facebook%2C+Google%2C+and+Amazon+Cornered+Culture+and+Undermined+Democracy&lang=en&st=xl&ac=qr)|🎧 ✅|Not my favoritem but great for getting some context!|
 |[The Cathedral and the Bazaar](https://www.bookfinder.com/search/?author=Raymond%2C+Eric+S.&title=The+Cathedral&lang=en&st=xl&ac=qr )|📖 ✅ ⭐️|A fun look into the history of Linux and Open Source.  Quick read!|
 |[Where Wizards Stay up Late](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a1_t1_1&qi=EuFY,j5SUK1PnosK,CQhfE3j,nc_1497963026_1:434:503&bq=author%3Dkatie%2520hafner%26title%3Dwhere%2520wizards%2520stay%2520up%2520late%2520the%2520origins%2520of%2520the%2520internet)|🎧️ ✅ ⭐️|I linked the physical book, but the audible version of this was really enjoyable.  I liked listening along with the narrative. This one checked a lot of boxes for me -- contemporary US history (especially the 70s) _and_ some nerdy awesomeness?  Yes please!  I loved the insight into what challenges they faced and how they worked them out.|
-|[Dealers of Lightning]([https://www.bookfinder.com/search/?author=author+not+set&title=Zero+to+One%3A+Notes+on+Startups%2C+Or+How+to+Build+the+Future&lang=en&st=xl&ac=qr](https://www.bookfinder.com/search/?author=Hiltzik%2C+Michael+A.&title=Dealers+of+Lightning%3A+Xerox+PARC+and+the+Dawn+of+the+Computer+Age&lang=en&st=xl&ac=qr))|🎧️ ✅ 👍️|I really enjoyed this one in a similar way that I enjoyed "Where Wizards Stay Up Late". I also happened to learn that I had a close family member working at Parc Xerox during this era, so it was fascinating to read from a personal perspective, too.  I find these waves of concentrated innovation that have come and gone throughout history truly fascinating and love dreaming about what that might look like in my lifetime, too.|
+|[Dealers of Lightning]([https://www.bookfinder.com/search/?author=author+not+set&title=Zero+to+One%3A+Notes+on+Startups%2C+Or+How+to+Build+the+Future&lang=en&st=xl&ac=qr](https://www.bookfinder.com/search/author=Hiltzik%2C+Michael+A.&title=Dealers+of+Lightning%3A+Xerox+PARC+and+the+Dawn+of+the+Computer+Age&lang=en&st=xl&ac=qr))|🎧️ ✅ 👍️|I really enjoyed this one in a similar way that I enjoyed "Where Wizards Stay Up Late". I also happened to learn that I had a close family member working at Parc Xerox during this era, so it was fascinating to read from a personal perspective, too.  I find these waves of concentrated innovation that have come and gone throughout history truly fascinating and love dreaming about what that might look like in my lifetime, too.|
 
 
 ## Language-Specific
@@ -114,8 +114,7 @@ All books follow an emoji-based labeling system as follows:
 ## Security
 | Title | Labels | Notes |
 | --- | --- | --- |
-|[Grokking Web Application Security](https://www.bookfinder.com/search/?author=Malcolm+McDonald&title=Grokking+Web+Application+Security&lang=en&st=xl&ac=qr
-)|📖||
+|[Grokking Web Application Security](https://www.bookfinder.com/search/?author=Malcolm+McDonald&title=Grokking+Web+Application+Security&lang=en&st=xl&ac=qr)|📖||
 
 ## Mathematics / Generally Nerdy Things
 | Title | Labels | Notes |
@@ -126,4 +125,3 @@ All books follow an emoji-based labeling system as follows:
 ## TBD/to categorize/saving for later
 - Five Dysfunctions of a Team
 - Talk Like TED
-- Crucial Conversations
