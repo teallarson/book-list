@@ -45,12 +45,11 @@ All books follow an emoji-based labeling system as follows:
 |[Never Split the Difference](https://www.bookfinder.com/search/?author=Voss%2C+Chris&title=Never+Split+the+Difference%3A+Negotiating+As+If+Your+Life+Depended+On+It&lang=en&st=xl&ac=qr)|🎧 ✅ ⭐️|Negotiation tips from a former FBI hostage negotiator.  Enough said really.|
 
 ## Culture
-|[No Rules Rules](https://www.bookfinder.com/search/?author=Reed+Hastings%2C+Erin+Meyer&title=No+Rules+Rules%3A+Netflix+and+the+Culture+of+Reinvention&lang=en&st=xl&ac=qr
-)|📖 ✅ 👍|This was a useful read in order to better understand the way some large, innovative companies operate internally.  Opinions on whether or not this is the ideal way for a company to operate vary, but I enjoyed the information and find it useful for framing others' experiences as well as thinking about my own.|
-|[Crucial Conversations](https://www.bookfinder.com/search/?author=Joseph+Grenny&title=Crucial+Conversations+Tools+for+Talking+When+Stakes+Are+High%2C+Second+Edition&lang=en&st=xl&ac=qr
-)|📖||
-|[Good to Great](https://www.bookfinder.com/search/?author=Collins%2C+Jim&title=Good+to+Great%3A+Why+Some+Companies+Make+the+Leap...and+Others+Don%27t&lang=en&st=xl&ac=qr
-)|📖||
+|Tiitle|Labels|Notes|
+|---|---|---|
+|[No Rules Rules](https://www.bookfinder.com/search/?author=Reed+Hastings%2C+Erin+Meyer&title=No+Rules+Rules%3A+Netflix+and+the+Culture+of+Reinvention&lang=en&st=xl&ac=qr)|📖 ✅ 👍|This was a useful read in order to better understand the way some large, innovative companies operate internally.  Opinions on whether or not this is the ideal way for a company to operate vary, but I enjoyed the information and find it useful for framing others' experiences as well as thinking about my own.|
+|[Crucial Conversations](https://www.bookfinder.com/search/?author=Joseph+Grenny&title=Crucial+Conversations+Tools+for+Talking+When+Stakes+Are+High%2C+Second+Edition&lang=en&st=xl&ac=qr)|📖||
+|[Good to Great](https://www.bookfinder.com/search/?author=Collins%2C+Jim&title=Good+to+Great%3A+Why+Some+Companies+Make+the+Leap...and+Others+Don%27t&lang=en&st=xl&ac=qr)|📖||
 |[Zero to One: Notes on Startups or How to Build the Future](https://www.bookfinder.com/search/?author=author+not+set&title=Zero+to+One%3A+Notes+on+Startups%2C+Or+How+to+Build+the+Future&lang=en&st=xl&ac=qr)|🎧️ ✅ 👍️|My favorite was the delve into the startup bubble in the early 2000s as I lived through that from a much younger person's perspective (a kid with a dad in startups).  It was fun to see what was actually going on behind the rollercoaster (and crash) and what we can learn from it and how it informs or can inform practices today.  I enjoyed getting at least one person's perspective on the "startup headspace", especially since this is a book I see referenced a lot in Twitter threads.|
 
 
@@ -69,7 +68,7 @@ All books follow an emoji-based labeling system as follows:
 ## DevOps
 | Title | Labels | Notes |
 | --- | --- | --- |
-|[The DevOps Handbook]([https://www.bookfinder.com/search/?author=Todd+Hoff&title=Explain+the+Cloud+Like+I%27M+10&lang=en&st=xl&ac=qr](https://www.bookfinder.com/search/?author=Gene+Kim&title=The+Devops+Handbook%3A+How+to+Create+World-Class+Agility%2C+Reliability%2C+and+Security+in+Technology+Organizations&lang=en&st=xl&ac=qr))|✅ 📖 ⭐️|I read this one with a book club and that was a great experience!  The examples given in this book really help drive home the principles they introduce.  I haven't read The Unicorn Project yet, so I was concerned there might be some missing context somehow, but the two books (from what I can tell) are pretty independent of each other.|
+|[The DevOps Handbook](https://www.bookfinder.com/search/?author=Gene+Kim&title=The+Devops+Handbook%3A+How+to+Create+World+Class+Agility%2C+Reliability%2C+and+Security+in+Technology+Organizations&lang=en&st=xl&ac=qr)|✅ 📖 ⭐️|I read this one with a book club and that was a great experience!  The examples given in this book really help drive home the principles they introduce.  I haven't read The Unicorn Project yet, so I was concerned there might be some missing context somehow, but the two books (from what I can tell) are pretty independent of each other.|
 
 ## General Software Engineering
 |Title|Labels|Notes|
